@@ -1,0 +1,30 @@
+Year 12 October 2020 – Computer Science A Level
+
+A teacher needs a program to record marks for a class of 30 students who have sat three computer science tests.
+
+Write and test a program for the teacher.
+• Your program must include appropriate prompts for the entry of data.
+• Error messages and other output need to be set out clearly and understandably.
+• All variables, constants and other identifiers must have meaningful names.
+You will need to complete these three tasks. Each task must be fully tested.
+
+TASK 1 – Set up arrays
+
+Set-up one dimensional arrays to store:
+• Student names
+• Student marks for Test 1, Test 2 and Test 3
+	Test 1 is out of 20 marks
+	Test 2 is out of 25 marks
+	Test 3 is out of 35 marks
+• Total score for each student
+Input and store the names for 30 students. You may assume that the students’ names are unique.
+Input and store the students’ marks for Test 1, Test 2 and Test 3. All the marks must be validated on
+entry and any invalid marks rejected.
+TASK 2 – Calculate
+
+Calculate the total score for each student and store in the array.
+Calculate the average total score for the whole class.
+Output each student’s name followed by their total score.
+Output the average total score for the class.
+TASK 3 – Select
+Select the student with the highest total score and output their name and total score.
