@@ -40,13 +40,12 @@ while(len(Names) != NumStudents):
       print("Mark inputted is too high (out of 30), try again.")
     else:
       print("An unexpected error has occurred.")
-del NumStudents
+
 #Total Scores for each Student:
 for i in range(len(Names)):
   total = 0
   total = total + Test1[i] + Test2[i] + Test3[i]
   Total.append(total)
-
 
 #CALCULATIONS
 #Var for Total for each student is "Total"
